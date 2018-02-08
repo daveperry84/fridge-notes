@@ -1,6 +1,4 @@
-# Fridge Notes
-
-![Fridge Notes Logo](images/FridgeNotesLogo.png?raw=true "Title")
+![Fridge Notes Logo](images/FridgeNotesLogoSml.png?raw=true "Title")
 
 A responsive to-do application, built on the MEAN stack.
 
